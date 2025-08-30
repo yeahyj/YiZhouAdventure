@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "0258ca88-876a-4d7f-a384-fd722c4b741c",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_f7NI9WxFVIO6e8LbJGF72k",
+    "priority": 1,
+    "bundleName": "paper-battle-task"
+  }
+}

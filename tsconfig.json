@@ -1,0 +1,24 @@
+{
+  /* Base configuration. Do not edit this field. */
+  "extends": "./temp/tsconfig.cocos.json",
+  /* Add your custom configuration here. */
+  "compilerOptions": {
+    "strict": true,
+    "lib": [
+      "es5",
+      "es2015",
+      "es2017",
+      "es2020",
+      "dom"
+    ],
+  },
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "settings",
+    "extensions"
+  ]
+}

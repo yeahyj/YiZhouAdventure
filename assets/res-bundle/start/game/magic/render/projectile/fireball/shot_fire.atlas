@@ -1,0 +1,48 @@
+
+shot_fire.png
+size: 1023,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firebolt-a
+  rotate: true
+  xy: 971, 76
+  size: 51, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+firebolt-b
+  rotate: false
+  xy: 2, 2
+  size: 209, 125
+  orig: 232, 137
+  offset: 16, 6
+  index: -1
+firebolt01
+  rotate: false
+  xy: 586, 3
+  size: 183, 124
+  orig: 208, 135
+  offset: 18, 6
+  index: -1
+firebolt02
+  rotate: false
+  xy: 213, 2
+  size: 180, 125
+  orig: 201, 137
+  offset: 14, 6
+  index: -1
+firebolt03
+  rotate: false
+  xy: 395, 3
+  size: 189, 124
+  orig: 212, 136
+  offset: 16, 6
+  index: -1
+firebolt04
+  rotate: false
+  xy: 771, 4
+  size: 198, 123
+  orig: 220, 135
+  offset: 16, 6
+  index: -1

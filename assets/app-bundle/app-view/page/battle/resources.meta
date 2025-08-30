@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "afda2e59-faaf-415c-b2b2-5d4c45cc8cd9",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_11aBEBWDxI/6ryvKvFthEo",
+    "priority": 4,
+    "bundleName": "page-battle-res"
+  }
+}

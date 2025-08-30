@@ -1,0 +1,35 @@
+{
+  "version": "3.8",
+  "name": "xforge",
+  "uuid": "ab72af5f-29c4-446f-8911-e4a0a6e3b139",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.2.0",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-unused-imports": "^4.1.3",
+    "prettier": "^3.4.2",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0"
+  },
+  "scripts": {
+    "cli": "npx --registry=https://registry.npmmirror.com @gamex/cc-cli@latest",
+    "upgrade": "npm run cli upgrade 快捷指令:升级框架",
+    "package": "npm run cli package 快捷指令:管理扩展",
+    "pkg:add": "node ./extensions/pkg add",
+    "pkg:remove": "node ./extensions/pkg remove",
+    "pkg:update": "node ./extensions/pkg update",
+    "excel2ts": "ts-node tool/excel2ts.ts",
+    "excel2ts:watch": "ts-node-dev --respawn tool/excel2ts.ts"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "zod": "^3.24.1"
+  }
+}

@@ -1,0 +1,62 @@
+
+attacked_fire.png
+size: 789,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire-a
+  rotate: false
+  xy: 579, 238
+  size: 179, 179
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+fire-b
+  rotate: true
+  xy: 351, 150
+  size: 267, 226
+  orig: 282, 236
+  offset: 9, 5
+  index: -1
+fire-c
+  rotate: false
+  xy: 653, 2
+  size: 105, 106
+  orig: 109, 111
+  offset: 2, 2
+  index: -1
+firepiece
+  rotate: true
+  xy: 579, 151
+  size: 85, 53
+  orig: 87, 57
+  offset: 1, 2
+  index: -1
+particle
+  rotate: true
+  xy: 2, 17
+  size: 400, 347
+  orig: 420, 371
+  offset: 7, 7
+  index: -1
+shock
+  rotate: true
+  xy: 351, 19
+  size: 129, 168
+  orig: 137, 183
+  offset: 3, 7
+  index: -1
+smoke
+  rotate: false
+  xy: 653, 110
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 521, 18
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

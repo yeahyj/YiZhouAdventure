@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "d92b64ab-e45a-4015-acb2-b693f9720783",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_f7NI9WxFVIO6e8LbJGF72k",
+    "priority": 1,
+    "bundleName": "paper-battle-map"
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="15" height="9" tilewidth="128" tileheight="128" infinite="0" nextlayerid="5" nextobjectid="1">
+ <editorsettings>
+  <export target="../../../assets/res-bundle/start/game/map/help/config/map/start.json" format="json"/>
+ </editorsettings>
+ <properties>
+  <property name="type" value="start"/>
+ </properties>
+ <tileset firstgid="1" source="../tsx/map.tsx"/>
+ <layer id="1" name="floor" width="15" height="9">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="4" name="wall" width="15" height="9">
+  <data encoding="csv">
+5,1,0,1,0,1,1,1,1,1,1,1,1,1,6,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,
+7,2,2,2,2,2,2,2,2,2,2,2,2,2,8
+</data>
+ </layer>
+ <layer id="2" name="door" width="15" height="9">
+  <properties>
+   <property name="127" value="0,-1"/>
+   <property name="60" value="-1,0"/>
+   <property name="7" value="0,1"/>
+   <property name="74" value="1,0"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

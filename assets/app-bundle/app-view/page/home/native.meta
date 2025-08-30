@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "bc49ecea-13ca-4bdf-a426-0b4896b435b6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_f7NI9WxFVIO6e8LbJGF72k",
+    "priority": 1,
+    "bundleName": "page-home"
+  }
+}

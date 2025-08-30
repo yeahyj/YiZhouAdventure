@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "1a5426a9-332d-4836-9488-1800978d3b0f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_f7NI9WxFVIO6e8LbJGF72k",
+    "priority": 1,
+    "bundleName": "paper-battle-rocker"
+  }
+}

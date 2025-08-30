@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "ca2074a7-c019-4cb6-ae64-9beeab83fa61",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_f7NI9WxFVIO6e8LbJGF72k",
+    "priority": 1,
+    "bundleName": "paper-battle-info"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "217533e3-ad2c-4b3e-ace3-4b4c319d9f37",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_11aBEBWDxI/6ryvKvFthEo",
+    "priority": 4,
+    "bundleName": "pop-equip-stone-res"
+  }
+}

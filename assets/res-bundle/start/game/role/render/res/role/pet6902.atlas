@@ -1,0 +1,363 @@
+
+pet6902.png
+size: 491,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PET6902_dangbu
+  rotate: false
+  xy: 394, 55
+  size: 52, 32
+  orig: 53, 33
+  offset: 0, 1
+  index: -1
+PET6902_shenti
+  rotate: true
+  xy: 99, 2
+  size: 40, 64
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+PET6902_shubao
+  rotate: false
+  xy: 226, 14
+  size: 32, 36
+  orig: 37, 44
+  offset: 3, 4
+  index: -1
+PET6902_shubao2
+  rotate: true
+  xy: 465, 249
+  size: 35, 24
+  orig: 39, 30
+  offset: 2, 3
+  index: -1
+PET6902_tou
+  rotate: false
+  xy: 394, 89
+  size: 64, 64
+  orig: 65, 67
+  offset: 0, 1
+  index: -1
+PET6902_toufa1
+  rotate: false
+  xy: 460, 115
+  size: 23, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+PET6902_toufa2
+  rotate: true
+  xy: 390, 155
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+PET6902_yanjingbiyan
+  rotate: true
+  xy: 280, 11
+  size: 38, 26
+  orig: 39, 30
+  offset: 0, 3
+  index: -1
+PET6902_yanjinggongji
+  rotate: false
+  xy: 353, 27
+  size: 38, 28
+  orig: 39, 30
+  offset: 0, 1
+  index: -1
+PET6902_yanjingkaichang
+  rotate: true
+  xy: 93, 133
+  size: 38, 27
+  orig: 39, 30
+  offset: 0, 3
+  index: -1
+PET6902_yanjingputong
+  rotate: false
+  xy: 393, 25
+  size: 38, 28
+  orig: 39, 30
+  offset: 0, 2
+  index: -1
+PET6902_yanjingshengli
+  rotate: false
+  xy: 308, 2
+  size: 38, 26
+  orig: 39, 30
+  offset: 0, 3
+  index: -1
+PET6902_yanjingshoushang
+  rotate: true
+  xy: 462, 209
+  size: 38, 27
+  orig: 39, 30
+  offset: 0, 3
+  index: -1
+PET6902_yanjingsiwang
+  rotate: true
+  xy: 462, 169
+  size: 38, 27
+  orig: 39, 30
+  offset: 0, 3
+  index: -1
+PET6902_youshou1
+  rotate: false
+  xy: 433, 19
+  size: 13, 34
+  orig: 14, 35
+  offset: 0, 1
+  index: -1
+PET6902_youshou2
+  rotate: false
+  xy: 460, 82
+  size: 25, 31
+  orig: 26, 32
+  offset: 0, 1
+  index: -1
+PET6902_youtui1
+  rotate: false
+  xy: 280, 96
+  size: 19, 33
+  orig: 20, 34
+  offset: 0, 1
+  index: -1
+PET6902_youtui2
+  rotate: false
+  xy: 192, 6
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+PET6902_zuoshou1
+  rotate: false
+  xy: 448, 62
+  size: 31, 18
+  orig: 32, 19
+  offset: 0, 1
+  index: -1
+PET6902_zuoshou2
+  rotate: true
+  xy: 280, 51
+  size: 43, 16
+  orig: 44, 26
+  offset: 0, 3
+  index: -1
+PET6902_zuoshou3
+  rotate: false
+  xy: 308, 30
+  size: 43, 25
+  orig: 44, 26
+  offset: 0, 1
+  index: -1
+PET6902_zuoshou4
+  rotate: false
+  xy: 384, 8
+  size: 36, 15
+  orig: 44, 26
+  offset: 0, 4
+  index: -1
+PET6902_zuotui1
+  rotate: false
+  xy: 165, 3
+  size: 25, 39
+  orig: 31, 42
+  offset: 5, 3
+  index: -1
+PET6902_zuotui2
+  rotate: false
+  xy: 260, 15
+  size: 18, 35
+  orig: 21, 36
+  offset: 2, 1
+  index: -1
+PET6902_zuotui3
+  rotate: true
+  xy: 348, 5
+  size: 20, 34
+  orig: 21, 36
+  offset: 0, 2
+  index: -1
+PET6902_zuotui4
+  rotate: false
+  xy: 465, 286
+  size: 24, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+pet6901_tx_skill_xl_00000
+  rotate: false
+  xy: 195, 323
+  size: 98, 98
+  orig: 137, 130
+  offset: 21, 19
+  index: -1
+pet6901_tx_skill_xl_00001
+  rotate: false
+  xy: 295, 328
+  size: 97, 92
+  orig: 137, 130
+  offset: 21, 22
+  index: -1
+pet6901_tx_skill_xl_00002
+  rotate: true
+  xy: 101, 310
+  size: 96, 92
+  orig: 137, 130
+  offset: 21, 22
+  index: -1
+pet6901_tx_skill_xl_00003
+  rotate: true
+  xy: 218, 131
+  size: 91, 81
+  orig: 137, 130
+  offset: 25, 27
+  index: -1
+pet6901_tx_skill_xl_00004
+  rotate: false
+  xy: 301, 141
+  size: 87, 87
+  orig: 137, 130
+  offset: 27, 24
+  index: -1
+pet6901_tx_skill_xl_00005
+  rotate: true
+  xy: 392, 194
+  size: 66, 68
+  orig: 137, 130
+  offset: 35, 35
+  index: -1
+pet6901_tx_skill_xl_00006
+  rotate: false
+  xy: 298, 422
+  size: 99, 98
+  orig: 137, 130
+  offset: 21, 19
+  index: -1
+pet6901_tx_skill_xl_00007
+  rotate: true
+  xy: 122, 211
+  size: 97, 92
+  orig: 137, 130
+  offset: 22, 22
+  index: -1
+pet6901_tx_skill_xl_00008
+  rotate: true
+  xy: 299, 230
+  size: 96, 91
+  orig: 137, 130
+  offset: 23, 22
+  index: -1
+pet6901_tx_skill_xl_00009
+  rotate: false
+  xy: 301, 57
+  size: 91, 82
+  orig: 137, 130
+  offset: 24, 27
+  index: -1
+pet6901_tx_skill_xl_00010
+  rotate: false
+  xy: 99, 44
+  size: 86, 86
+  orig: 137, 130
+  offset: 27, 25
+  index: -1
+pet6901_tx_skill_xl_00011
+  rotate: true
+  xy: 394, 262
+  size: 66, 69
+  orig: 137, 130
+  offset: 39, 32
+  index: -1
+pet6901_tx_skill_xl_00012
+  rotate: true
+  xy: 394, 330
+  size: 81, 95
+  orig: 137, 130
+  offset: 29, 21
+  index: -1
+pet6901_tx_skill_xl_00013
+  rotate: false
+  xy: 216, 224
+  size: 81, 97
+  orig: 137, 130
+  offset: 29, 21
+  index: -1
+pet6901_tx_skill_xl_00014
+  rotate: false
+  xy: 399, 413
+  size: 85, 107
+  orig: 137, 130
+  offset: 27, 12
+  index: -1
+pet6901_tx_skill_xl_00015
+  rotate: false
+  xy: 2, 74
+  size: 89, 106
+  orig: 137, 130
+  offset: 23, 14
+  index: -1
+pet6901_tx_skill_xl_00016
+  rotate: false
+  xy: 2, 182
+  size: 94, 109
+  orig: 137, 130
+  offset: 22, 12
+  index: -1
+pet6901_tx_skill_xl_00017
+  rotate: false
+  xy: 2, 293
+  size: 96, 112
+  orig: 137, 130
+  offset: 22, 9
+  index: -1
+pet6901_tx_skill_xl_00018
+  rotate: false
+  xy: 2, 407
+  size: 97, 113
+  orig: 137, 130
+  offset: 21, 8
+  index: -1
+pet6901_tx_skill_xl_00019
+  rotate: false
+  xy: 101, 408
+  size: 92, 112
+  orig: 137, 130
+  offset: 21, 9
+  index: -1
+pet6901_tx_skill_xl_00020
+  rotate: false
+  xy: 195, 423
+  size: 101, 97
+  orig: 137, 130
+  offset: 20, 11
+  index: -1
+pet6901_tx_skill_xl_00021
+  rotate: false
+  xy: 187, 52
+  size: 91, 77
+  orig: 137, 130
+  offset: 20, 12
+  index: -1
+pet6901_tx_skill_xl_00022
+  rotate: false
+  xy: 122, 132
+  size: 94, 77
+  orig: 137, 130
+  offset: 19, 8
+  index: -1
+pet6901_tx_skill_xl_00023
+  rotate: false
+  xy: 2, 3
+  size: 95, 69
+  orig: 137, 130
+  offset: 19, 12
+  index: -1
+pet_yinying
+  rotate: true
+  xy: 98, 173
+  size: 118, 22
+  orig: 120, 24
+  offset: 1, 1
+  index: -1

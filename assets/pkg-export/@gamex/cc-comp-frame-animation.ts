@@ -1,0 +1,1 @@
+export * from 'db://pkg/@gamex/cc-comp-frame-animation';

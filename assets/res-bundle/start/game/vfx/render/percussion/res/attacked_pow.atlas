@@ -1,0 +1,41 @@
+
+attacked_pow.png
+size: 475,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff01
+  rotate: false
+  xy: 2, 2
+  size: 281, 278
+  orig: 284, 284
+  offset: 3, 3
+  index: -1
+eff02
+  rotate: false
+  xy: 285, 159
+  size: 120, 121
+  orig: 127, 126
+  offset: 4, 3
+  index: -1
+eff03
+  rotate: false
+  xy: 285, 42
+  size: 116, 115
+  orig: 127, 126
+  offset: 6, 5
+  index: -1
+eff04
+  rotate: false
+  xy: 403, 86
+  size: 70, 71
+  orig: 78, 78
+  offset: 4, 3
+  index: -1
+eff05
+  rotate: false
+  xy: 403, 9
+  size: 59, 75
+  orig: 63, 84
+  offset: 2, 5
+  index: -1

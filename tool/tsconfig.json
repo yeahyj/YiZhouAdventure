@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        // 其他选项...
+    }
+    // 其他配置...
+}

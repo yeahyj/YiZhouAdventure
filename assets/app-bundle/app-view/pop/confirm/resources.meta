@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "9375a6b1-189e-48b1-9216-795a3d4ea7f8",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleConfigID": "auto_11aBEBWDxI/6ryvKvFthEo",
+    "priority": 4,
+    "bundleName": "pop-confirm-res"
+  }
+}
